@@ -1,8 +1,7 @@
 module.exports = {
-    name: '?imh',
-    description: 'Call Us!',
+    name: 'sheesh',
+    description: 'Well... Sheeeeesh!!!!',
     execute(msg, args) {
-      msg.channel.send('Please call +65 6389 2000');
-      console.log(args)
+        msg.channel.send('YOOOO Sheeeeesh!', {tts: true});
     },
-  };
+};

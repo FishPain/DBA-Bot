@@ -19,12 +19,28 @@ client.on("ready", () => {
 	console.log(`Logged in as ${client.user.tag}!`)
 })
 
+
+// List of all the commands
+client.on('message', msg => {
+	if (msg.content == '?help'){
+		let list = "This is the list of commands"
+		const numberList = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten']
+		let i = 0
+		client.commands.forEach(element => {
+			list = list + `\n :${numberList[i]}: ${element.name} => ${element.description}`
+			i++
+		})
+		msg.channel.send(list)
+	}
+})
+
+// Commands
 client.on('message', msg => {
 	const args = msg.content.split(/ +/);
-	let command = args.shift().split('?')[1].toLowerCase();
-
-	if (!client.commands.has(command)) return;
+	let command = args.shift().toLowerCase();
+	if (!client.commands.has(command) || msg.author.bot) return;
 	console.info(`Called command: ${command}`);
+	console.log('here')
 
 	try {
 		client.commands.get(command).execute(msg, args);
@@ -34,6 +50,8 @@ client.on('message', msg => {
 	}
 
 });
+
+
 
 client.login(BOT_TOKEN)
 
