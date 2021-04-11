@@ -23,7 +23,7 @@ client.on("ready", () => {
 // List of all the commands
 client.on('message', msg => {
 	if (msg.content == '?help'){
-		let list = "This is the list of commands"
+		let list = ":book: This is the list of commands :book: \n:point_right: [Command] => [Description] :point_left:"
 		const numberList = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten']
 		let i = 0
 		client.commands.forEach(element => {
