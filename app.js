@@ -40,7 +40,6 @@ client.on('message', msg => {
 	let command = args.shift().toLowerCase();
 	if (!client.commands.has(command) || msg.author.bot) return;
 	console.info(`Called command: ${command}`);
-	console.log('here')
 
 	try {
 		client.commands.get(command).execute(msg, args);
