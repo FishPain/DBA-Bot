@@ -23,7 +23,7 @@ client.on("ready", () => {
 // List of all the commands
 client.on('message', msg => {
 	if (msg.content == '?help'){
-		let list = ":book: This is the list of commands :book: \n:point_right: [Command] => [Description] :point_left:"
+		let list = ">>> :book: This is the list of commands :book: \n:point_right: [Command] => [Description] :point_left:"
 		const numberList = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten']
 		let i = 0
 		client.commands.forEach(element => {
@@ -45,7 +45,7 @@ client.on('message', msg => {
 		client.commands.get(command).execute(msg, args);
 	} catch (error) {
 		console.error(error);
-		msg.reply('there was an error trying to execute that command!');
+		msg.reply('There was an error trying to execute that command!');
 	}
 
 });

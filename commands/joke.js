@@ -11,7 +11,7 @@ module.exports = {
         .then(res => res.json())
         .then(
             (result) => {
-                msg.channel.send(result.joke)
+                msg.channel.send(`>>> ${result.joke}`)
             })
     },
 };

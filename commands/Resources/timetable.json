@@ -1,0 +1,290 @@
+{
+    "name": "DBA Time Table 2021 Sem 1",
+    "tt": {
+        "1":{
+            "day": "Monday",
+            "9":{
+                "module_name":"DIGITAL MARKETING",
+                "module_code":"IT2354",
+                "lesson_type":"Tutorial",
+                "location":"L.604"
+            },
+            "10":{
+                "module_name":"DIGITAL MARKETING",
+                "module_code":"IT2354",
+                "lesson_type":"Tutorial",
+                "location":"L.604"
+            },
+            "11":{
+                "module_name":"DATABASE MANAGEMENT SYSTEMS",
+                "module_code":"IT2351",
+                "lesson_type":"Lab",
+                "location":"L.641"
+            },
+            "12":{
+                "module_name":"DATABASE MANAGEMENT SYSTEMS",
+                "module_code":"IT2351",
+                "lesson_type":"Lab",
+                "location":"L.641"
+            },
+            "13":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "14":{
+                "module_name":"DECISION SCIENCE",
+                "module_code":"IT2353",
+                "lesson_type":"Lab",
+                "location":"L.633"
+            },
+            "15":{
+                "module_name":"DECISION SCIENCE",
+                "module_code":"IT2353",
+                "lesson_type":"Lab",
+                "location":"L.633"
+            },
+            "16":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "17":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            }
+        },
+        "2":{
+            "day": "Tuesday",
+            "9":{
+                "module_name":"DATA STRUCTURES & ALGORITHMS",
+                "module_code":"IT2352",
+                "lesson_type":"Lab",
+                "location":"L.640"
+            },
+            "10":{
+                "module_name":"DATA STRUCTURES & ALGORITHMS",
+                "module_code":"IT2352",
+                "lesson_type":"Lab",
+                "location":"L.640"
+            },
+            "11":{
+                "module_name":"DATA STRUCTURES & ALGORITHMS",
+                "module_code":"IT2352",
+                "lesson_type":"Lab",
+                "location":"L.640"
+            },
+            "12":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "13":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "14":{
+                "module_name":"GSM",
+                "module_code": null,
+                "lesson_type":"Zoom",
+                "location":"Zoom Link"
+            },
+            "15":{
+                "module_name":"GSM",
+                "module_code": null,
+                "lesson_type":"Zoom",
+                "location":"Zoom Link"
+            },
+            "16":{
+                "module_name":"GSM",
+                "module_code": null,
+                "lesson_type":"Zoom",
+                "location":"Zoom Link"
+            },
+            "17":{
+                "module_name":"GSM",
+                "module_code": null,
+                "lesson_type":"Zoom",
+                "location":"Zoom Link"
+            }
+        },
+        "3":{
+            "day":"Wednesday",
+            "9":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "10":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "11":{
+                "module_name":"DATABASE MANAGEMENT SYSTEMS",
+                "module_code":"IT2351",
+                "lesson_type":"Tutorial",
+                "location":"LTL-2"
+            },
+            "12":{
+                "module_name":"DECISION SCIENCE",
+                "module_code":"IT2353",
+                "lesson_type":"Tutorial",
+                "location":"LTL-2"
+            },
+            "13":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "14":{
+                "module_name":"MARKETING ANALYTICS",
+                "module_code":"IT2355",
+                "lesson_type":"Tutorial",
+                "location":"L.637"
+            },
+            "15":{
+                "module_name":"BUSINESS ANALYTICS PROJECT",
+                "module_code":"IT2356",
+                "lesson_type":"Lab",
+                "location":"L.637"
+            },
+            "16":{
+                "module_name":"BUSINESS ANALYTICS PROJECT",
+                "module_code":"IT2356",
+                "lesson_type":"Lab",
+                "location":"L.637"
+            },
+            "17":{
+                "module_name":"BUSINESS ANALYTICS PROJECT",
+                "module_code":"IT2356",
+                "lesson_type":"Lab",
+                "location":"L.637"
+            }
+        },
+        "4":{
+            "day":"Thursday",
+            "9":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "10":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "11":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "12":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "13":{
+                "module_name":"DBA PERSONAL MENTOR CONTACT TIME",
+                "module_code":"IT-DBA",
+                "lesson_type":"Zoom",
+                "location":"https://nyp-sg.zoom.us/j/94884018545?pwd=MXNidUdqQWJiY3pDNlZ2Vk1aV1UwZz09"
+            },
+            "14":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "15":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "16":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "17":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            }
+        },
+        "5":{
+            "day":"Friday",
+            "9":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "10":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "11":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "12":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "13":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "14":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "15":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "16":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            },
+            "17":{
+                "module_name":"Break",
+                "module_code": null,
+                "lesson_type":null,
+                "location":null
+            }
+        }
+    }
+}
