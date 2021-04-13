@@ -36,6 +36,7 @@ client.on('message', msg => {
 
 // Commands
 client.on('message', msg => {
+	if (msg.member.roles.cache.has('750278111886704691') === false) return;
 	const args = msg.content.split(/ +/);
 	let command = args.shift().toLowerCase();
 	if (!client.commands.has(command) || msg.author.bot) return;
@@ -49,6 +50,8 @@ client.on('message', msg => {
 	}
 
 });
+
+
 
 
 
