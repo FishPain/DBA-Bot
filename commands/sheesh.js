@@ -20,7 +20,7 @@ module.exports = {
 
         }
         else{
-            msg.channel.send('>>> No one in the channel!');
+            msg.channel.send('>>> You are not in the channel!');
         }
 
     },

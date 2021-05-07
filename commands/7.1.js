@@ -1,6 +1,6 @@
 // const fs = require('fs')
 module.exports = {
-    name: '7.1',
+    name: '?Dolby',
     description: 'All around youu youu youuuu',
     async execute(msg, args) {
         if (msg.member.voice.channel) {
@@ -20,7 +20,7 @@ module.exports = {
 
         }
         else{
-            msg.channel.send('>>> No one in the channel!');
+            msg.channel.send('>>> You are not in the channel!');
         }
 
     },
