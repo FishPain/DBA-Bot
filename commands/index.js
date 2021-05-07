@@ -6,4 +6,5 @@ module.exports = {
 	Fuck: require('./fk'),
 	Geek: require('./geek'),
 	Sheesh: require('./sheesh'),
+	Dolby: require('./7.1')
 };
